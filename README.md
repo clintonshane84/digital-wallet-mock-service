@@ -1,6 +1,6 @@
-# wallet-mock-service
+# digital-wallet-mock-service
 
-The wallet-mock-service is a simple Flask-based application designed to manage and simulate wallet transactions for users. It supports operations such as creating a user, updating user information, handling wallet transactions (such as deposits, withdrawals, and adjustments), and querying transaction histories.
+The digital-wallet-mock-service is a simple Flask-based application designed to manage and simulate wallet transactions for users. It supports operations such as creating a user, updating user information, handling wallet transactions (such as deposits, withdrawals, and adjustments), and querying transaction histories.
 
 ## Features
 
